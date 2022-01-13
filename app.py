@@ -1,4 +1,4 @@
-%%writefile app.py
+
 import streamlit as st
 import joblib
 import matplotlib.pyplot as plt
